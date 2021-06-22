@@ -1,0 +1,16 @@
+C:\Users\Kilic\source\repos\BubbleSort\bin\Debug\net5.0\BubbleSort.exe
+C:\Users\Kilic\source\repos\BubbleSort\bin\Debug\net5.0\BubbleSort.deps.json
+C:\Users\Kilic\source\repos\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.json
+C:\Users\Kilic\source\repos\BubbleSort\bin\Debug\net5.0\BubbleSort.runtimeconfig.dev.json
+C:\Users\Kilic\source\repos\BubbleSort\bin\Debug\net5.0\BubbleSort.dll
+C:\Users\Kilic\source\repos\BubbleSort\bin\Debug\net5.0\ref\BubbleSort.dll
+C:\Users\Kilic\source\repos\BubbleSort\bin\Debug\net5.0\BubbleSort.pdb
+C:\Users\Kilic\source\repos\BubbleSort\obj\Debug\net5.0\BubbleSort.csprojAssemblyReference.cache
+C:\Users\Kilic\source\repos\BubbleSort\obj\Debug\net5.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kilic\source\repos\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Kilic\source\repos\BubbleSort\obj\Debug\net5.0\BubbleSort.AssemblyInfo.cs
+C:\Users\Kilic\source\repos\BubbleSort\obj\Debug\net5.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Kilic\source\repos\BubbleSort\obj\Debug\net5.0\BubbleSort.dll
+C:\Users\Kilic\source\repos\BubbleSort\obj\Debug\net5.0\ref\BubbleSort.dll
+C:\Users\Kilic\source\repos\BubbleSort\obj\Debug\net5.0\BubbleSort.pdb
+C:\Users\Kilic\source\repos\BubbleSort\obj\Debug\net5.0\BubbleSort.genruntimeconfig.cache
